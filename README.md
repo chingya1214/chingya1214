@@ -8,7 +8,7 @@
 
 |Project |Link |Skills |
 |-----|--------|-------- |
-|憂遇|[link](https://whenwemeet2022.netlify.app/)| #Vue.js #HTML #CSS #JavaScript |
+|憂遇|[link](https://whenwemeet2022.netlify.app/)| #Vue.js #HTML #SCSS #JavaScript |
 |NCCUxDISA新移民網路市集|[link](https://nccuiixdisa.netlify.app/index.html)| #HTML #CSS #Bootstrap #JavaScript #RWD |
 |保誠人壽保誠創新智造所|[link](https://github.com/chingya1214/pcalife)| #Vue.js #HTML #CSS #Bootstrap #JavaScript #Axios #RWD |
 |SOUL台灣官網|[link](http://www.i2tec.com/soul/soul/)|#HTML #CSS #Bootstrap #JavaScript #PHP #JSON #RWD |
