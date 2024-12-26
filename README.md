@@ -4,7 +4,7 @@
 
 - I’m currently learning Web development
 
-## Portfolio
+## Projects
 
 |Project |Link |Skills |
 |-----|--------|-------- |
