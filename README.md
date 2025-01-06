@@ -8,6 +8,7 @@
 
 |Project |Link |Skills |
 |-----|--------|-------- |
+|作品集|[link](https://chingya1214.github.io/portfolio/)| #Vue.js #Vite #HTML #SCSS #Bootstrap #JavaScript #RWD |
 |憂遇|[link](https://whenwemeet2022.netlify.app/)| #Vue.js #HTML #SCSS #JavaScript |
 |NCCUxDISA新移民網路市集|[link](https://nccuiixdisa.netlify.app/index.html)| #HTML #CSS #Bootstrap #JavaScript #RWD |
 |保誠人壽保誠創新智造所|[link](https://chingya1214.github.io/pcalife/)| #Vue.js #HTML #CSS #Bootstrap #JavaScript #Axios #RWD |
